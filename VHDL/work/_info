@@ -1,0 +1,1757 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Amir/Desktop/FIR
+Earbiter
+Z0 w1655374410
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 105
+Z3 dC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI
+Z4 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Arbiter.vhd
+Z5 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Arbiter.vhd
+l0
+L4 1
+V4biBGQT6X37[aH?XogKEG2
+!s100 F1N2^mDXBdDV0DmbgiYWC2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1655374810
+!i10b 1
+Z8 !s108 1655374810.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Arbiter.vhd|
+Z10 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Arbiter.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarbiter_arc
+Z13 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z14 DEx4 work 5 reg_p 0 22 2G0;`I:Q[I[W4njcPDULX2
+R1
+R2
+DEx4 work 7 arbiter 0 22 4biBGQT6X37[aH?XogKEG2
+!i122 105
+l11
+L8 14
+VkcjW_a0n:kCdFPCB1G]Ma1
+!s100 <;mkc^P9_[XHU4iD14CP52
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Earu
+Z15 w1655154616
+R13
+R1
+R2
+!i122 108
+R3
+Z16 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DP_Components.vhd
+Z17 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DP_Components.vhd
+l0
+L6 1
+VBzGmL9J[CB_8zAX9dVN:V2
+!s100 >2C7gdQgfzz3>3QM;IBSR0
+R6
+32
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DP_Components.vhd|
+Z19 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DP_Components.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+Z20 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z22 DEx4 work 8 boothmul 0 22 aoL9FbZmSU]>ZYc2OdQ^Z0
+R13
+R1
+R2
+Z23 DEx4 work 3 aru 0 22 BzGmL9J[CB_8zAX9dVN:V2
+!i122 108
+l22
+L16 36
+V>U<HcMWk8E4d1MHa7L1hl0
+!s100 >6oWlFAT@H:@KEz>kUhCR2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Ebooth_controller
+Z24 w1651948964
+R20
+R21
+R1
+R2
+!i122 106
+R3
+Z25 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Booth_Multiplier.vhd
+Z26 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Booth_Multiplier.vhd
+l0
+L166 1
+VOSf3mc_cSF3^jWPocfaOP3
+!s100 @cf@_]W>zlQX=7^WA8Je[2
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Booth_Multiplier.vhd|
+Z28 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/Booth_Multiplier.vhd|
+!i113 1
+R11
+R12
+Acontroller_arc
+Z29 DEx4 work 9 counter_3 0 22 iS:G0;A?3M3a0h_6famjm2
+R20
+R21
+R1
+R2
+Z30 DEx4 work 16 booth_controller 0 22 OSf3mc_cSF3^jWPocfaOP3
+!i122 106
+l183
+L175 49
+VCUNM6KcW6T6fJLl_<DQH01
+!s100 U=D?SFHa[Z=c=kJPWGh4[0
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Ebooth_datapath
+R24
+R13
+R20
+R21
+R1
+R2
+!i122 106
+R3
+R25
+R26
+l0
+L75 1
+VJ9F78kb3ifj=M56gZA2GE2
+!s100 ?jBl>OVhDNFohgYPb?HdR2
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Adatapath_arc
+Z31 DEx4 work 11 generic_reg 0 22 F:jV[62hNcdRZiPmR^3@b0
+R13
+R20
+R21
+R1
+R2
+Z32 DEx4 work 14 booth_datapath 0 22 J9F78kb3ifj=M56gZA2GE2
+!i122 106
+l99
+L86 69
+VF>nC3I<bS9KFz;1DiYLPb2
+!s100 ]B1[<W[[2k=`el7g;J<9[1
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Eboothmul
+R24
+R13
+R20
+R21
+R1
+R2
+!i122 106
+R3
+R25
+R26
+l0
+L234 1
+VaoL9FbZmSU]>ZYc2OdQ^Z0
+!s100 ][UgzAkR^Bo>bkS2_mm`52
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Aboothmul_arc
+R30
+R32
+R13
+R20
+R21
+R1
+R2
+R22
+!i122 106
+l248
+L244 10
+VI8n]0EaTdR3<e30cdQFhR2
+!s100 ]5AX<fZK13:mXLHSNmNYA1
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Econtroller
+Z33 w1655357250
+Z34 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R13
+R21
+R20
+R1
+R2
+!i122 114
+R3
+Z35 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Controller.vhd
+Z36 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Controller.vhd
+l0
+L9 1
+VfaJeJ_PKM45a]^fPMJQ<T1
+!s100 A=U?h:H4b5Sc]=0Zn;<RG1
+R6
+32
+Z37 !s110 1655374811
+!i10b 1
+Z38 !s108 1655374811.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Controller.vhd|
+Z40 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Controller.vhd|
+!i113 1
+R11
+R12
+Actrl
+R34
+R13
+R21
+R20
+R1
+R2
+Z41 DEx4 work 10 controller 0 22 faJeJ_PKM45a]^fPMJQ<T1
+!i122 114
+l75
+L38 586
+V<`afTJlUnlUkKF[1<7K;L0
+!s100 mFMkgUTSm:z1YM@8bQ:Hc0
+R6
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Econtroller_fir
+Z42 w1655288948
+R20
+R21
+R1
+R2
+!i122 109
+R3
+Z43 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_CTRL.vhd
+Z44 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_CTRL.vhd
+l0
+L6 1
+V4fZzQf2T14]?l?dnFB8=j0
+!s100 A3kLTkL:=n9zCZK>nJcd@3
+R6
+32
+R7
+!i10b 1
+R8
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_CTRL.vhd|
+Z46 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_CTRL.vhd|
+!i113 1
+R11
+R12
+Acontroller_fir_arc
+R20
+R21
+R1
+R2
+Z47 DEx4 work 14 controller_fir 0 22 4fZzQf2T14]?l?dnFB8=j0
+!i122 109
+l26
+L22 68
+VLUG8[nzS2dgXjD:gHZN=:1
+!s100 AkIigUMI:OLQ]3;f@QTfi0
+R6
+32
+R7
+!i10b 1
+R8
+R45
+R46
+!i113 1
+R11
+R12
+Ecounter_3
+R24
+R20
+R21
+R1
+R2
+!i122 106
+R3
+R25
+R26
+l0
+L37 1
+ViS:G0;A?3M3a0h_6famjm2
+!s100 l[BdL;Li@>l97feIeYU1]2
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Acounter_arc
+R20
+R21
+R1
+R2
+R29
+!i122 106
+l47
+L45 20
+V5S@1UAQ0eIBalKo7g9Rh<2
+!s100 eeEjj;NXLHgZ_[Xd6[@KA3
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Ecounter_4
+R15
+R13
+R20
+R21
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L240 1
+Vza=JYlbmMdGnUCRnG[Zk23
+!s100 H@f@X`j@EJ30L4M^I;gmc1
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Acounter_arc
+R13
+R20
+R21
+R1
+R2
+Z48 DEx4 work 9 counter_4 0 22 za=JYlbmMdGnUCRnG[Zk23
+!i122 108
+l249
+L247 18
+V`;fCoo^hN_<`AlPcKzMbL1
+!s100 Y3SQ6Vb<@ZZ0`^]ZJ]@Jm2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Ecountetr
+Z49 w1655317543
+R20
+R21
+R13
+R1
+R2
+!i122 107
+R3
+Z50 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/components.vhd
+Z51 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/components.vhd
+l0
+L224 1
+VDnVADPRaHz6QlNP85DDGk1
+!s100 WblF>HCl@4ZTCn=Ee_UnL2
+R6
+32
+R7
+!i10b 1
+R8
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/components.vhd|
+Z53 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/components.vhd|
+!i113 1
+R11
+R12
+Artl
+R20
+R21
+R13
+R1
+R2
+Z54 DEx4 work 8 countetr 0 22 DnVADPRaHz6QlNP85DDGk1
+!i122 107
+l234
+L233 19
+VUz:82Ln<^S?J_FicAAHa81
+!s100 ISV_SAoE?E=BQaQ6koGYi0
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Edatapath
+Z55 w1655357003
+R13
+R1
+R2
+!i122 115
+R3
+Z56 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Datapath.vhd
+Z57 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Datapath.vhd
+l0
+L5 1
+Vo2=[7M<>XKaRCR9>Qi[S00
+!s100 @PgIXfF9iLn3z=:J22Zz13
+R6
+32
+R37
+!i10b 1
+R38
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Datapath.vhd|
+Z59 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_Datapath.vhd|
+!i113 1
+R11
+R12
+Artl
+Z60 DEx4 work 3 inc 0 22 ?eAPoefXz738SbCJ:mPh70
+Z61 DEx4 work 3 imm 0 22 Zg=>Loj1gOBQiAzQb;[Qc0
+R14
+R48
+Z62 DEx4 work 7 mux3to1 0 22 DCC]B7b[9K799c]dTFB^80
+Z63 DEx4 work 7 mux4to1 0 22 ]NYSnWAJS?<>>UkZKAkof1
+Z64 DEx4 work 7 mux2to1 0 22 U@8d4RDKzB?lIaWKimje:2
+R23
+R20
+R21
+Z65 DEx4 work 3 lgu 0 22 QQ6A`_9W22LMTVFXHPhKP0
+R13
+R1
+R2
+Z66 DEx4 work 8 datapath 0 22 o2=[7M<>XKaRCR9>Qi[S00
+!i122 115
+l63
+L40 106
+VXibRP303T@]ZYg0P=2NXg2
+!s100 :FFo`K1aHPzjNGbPIT=4Y0
+R6
+32
+R37
+!i10b 1
+R38
+R58
+R59
+!i113 1
+R11
+R12
+Edma_ctrl
+Z67 w1655372076
+R20
+R21
+R1
+R2
+!i122 120
+R3
+Z68 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_CTRL.vhd
+Z69 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_CTRL.vhd
+l0
+L5 1
+VdK@[6]BJPB>;_6I?WT2cM1
+!s100 JmP1e^=6Y:G5H^7oS1>d`3
+R6
+32
+Z70 !s110 1655374812
+!i10b 1
+Z71 !s108 1655374812.000000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_CTRL.vhd|
+Z73 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_CTRL.vhd|
+!i113 1
+R11
+R12
+Artl
+R20
+R21
+R1
+R2
+Z74 DEx4 work 8 dma_ctrl 0 22 dK@[6]BJPB>;_6I?WT2cM1
+!i122 120
+l32
+L28 153
+VGEe06c^h_iXM2hz1khH8g1
+!s100 mmg[:Qz2`OnPO:QZLzDY73
+R6
+32
+R70
+!i10b 1
+R71
+R72
+R73
+!i113 1
+R11
+R12
+Edma_dp
+Z75 w1655373678
+R20
+R21
+R13
+R1
+R2
+!i122 119
+R3
+Z76 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_DP.vhd
+Z77 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_DP.vhd
+l0
+L6 1
+VHbz0^1OKJ5PGg1EgQ<L7T1
+!s100 1Hkm:jTC<=Jc^VScTLOY:1
+R6
+32
+R70
+!i10b 1
+R71
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_DP.vhd|
+Z79 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_DP.vhd|
+!i113 1
+R11
+R12
+Artl
+Z80 DEx4 work 7 ram_out 0 22 TR5MXEKkJa6oCR>9IeJ2C1
+Z81 DEx4 work 6 ram_in 0 22 H3]N=?NPN^QWYFF3EMMde1
+Z82 DEx4 work 5 reg16 0 22 Z_Xmd4bTB2ZiPAYbk2]D30
+R54
+R20
+R21
+R13
+R1
+R2
+Z83 DEx4 work 6 dma_dp 0 22 Hbz0^1OKJ5PGg1EgQ<L7T1
+!i122 119
+l32
+L22 58
+V]fNVFWhOik`]K7:=<RcAa2
+!s100 OUKGG5`D1DL92X924Id:C1
+R6
+32
+R70
+!i10b 1
+R71
+R78
+R79
+!i113 1
+R11
+R12
+Edma_top
+Z84 w1655373059
+R13
+R1
+R2
+!i122 121
+R3
+Z85 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_TOP.vhd
+Z86 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_TOP.vhd
+l0
+L5 1
+VUVMD5_kQ>^b4jc1IELJ:i1
+!s100 Deai0XZ59X0QW;zNH<f=M3
+R6
+32
+R70
+!i10b 1
+R71
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_TOP.vhd|
+Z88 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/DMA_TOP.vhd|
+!i113 1
+R11
+R12
+Artl
+R74
+R20
+R21
+R83
+R13
+R1
+R2
+Z89 DEx4 work 7 dma_top 0 22 UVMD5_kQ>^b4jc1IELJ:i1
+!i122 121
+l31
+Z90 L29 56
+Z91 VCdR?6BQ^VV3UEAO=^mF1a0
+Z92 !s100 IHn>>fb58AoMY@QK=R`G_3
+R6
+32
+R70
+!i10b 1
+R71
+R87
+R88
+!i113 1
+R11
+R12
+Edp_fir
+Z93 w1655294417
+R20
+R21
+R13
+R1
+R2
+!i122 110
+R3
+Z94 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_DP.vhd
+Z95 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_DP.vhd
+l0
+L6 1
+Veb7bC1bUXh6FFD;d]_lZG1
+!s100 GWzZLSI<gcJUB;Sk`hHRo0
+R6
+32
+R37
+!i10b 1
+R8
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_DP.vhd|
+Z97 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_DP.vhd|
+!i113 1
+R11
+R12
+Artl
+R80
+Z98 DEx4 work 4 fir1 0 22 QJUz?RZCEjZ@F5aToXBA>2
+R81
+Z99 DEx4 work 7 ram_cof 0 22 FSdm922LLC3=E2J8zK2140
+R82
+R54
+R20
+R21
+R13
+R1
+R2
+Z100 DEx4 work 6 dp_fir 0 22 eb7bC1bUXh6FFD;d]_lZG1
+!i122 110
+l40
+L22 65
+VR8kP@Q?B8;nPIN8aLLl4g3
+!s100 P>[UHTX[95A:bZBi`mb`X3
+R6
+32
+R37
+!i10b 1
+R8
+R96
+R97
+!i113 1
+R11
+R12
+Efir1
+R49
+R20
+R21
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L258 1
+VQJUz?RZCEjZ@F5aToXBA>2
+!s100 _naKVUXXOl^d5Xje8VfGa0
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Artl
+Z101 DEx4 work 5 reg32 0 22 Mg?Ae8=kPNhIbgDmHIdEL3
+R20
+R21
+R13
+R1
+R2
+R98
+!i122 107
+l268
+L266 9
+VCE:`]WS2^^OXnERP`:0UM3
+!s100 zKYNJTXYBjzS[;UzfWBD<2
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Efir_top
+Z102 w1655194452
+R13
+R20
+R21
+R1
+R2
+!i122 111
+R3
+Z103 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_TOP.vhd
+Z104 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_TOP.vhd
+l0
+L6 1
+V`nF]VzC>8N8<24c@]kkaQ0
+!s100 HIiPCg;L>;P[^W4]c<2`Y3
+R6
+32
+R37
+!i10b 1
+R38
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_TOP.vhd|
+Z106 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/FIR_TOP.vhd|
+!i113 1
+R11
+R12
+Artl
+R47
+R100
+R13
+R20
+R21
+R1
+R2
+DEx4 work 7 fir_top 0 22 `nF]VzC>8N8<24c@]kkaQ0
+!i122 111
+l25
+L23 47
+VD=Hc>3WiFN39MejQnl<HS0
+!s100 GI5D;g:aD[HiUcQ7]a=TE0
+R6
+32
+R37
+!i10b 1
+R38
+R105
+R106
+!i113 1
+R11
+R12
+Egeneric_reg
+R24
+R20
+R21
+R1
+R2
+!i122 106
+R3
+R25
+R26
+l0
+L6 1
+VF:jV[62hNcdRZiPmR^3@b0
+!s100 TK5QiN2ofYQnS<mgJ1>^;0
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Ageneric_reg_arc
+R20
+R21
+R1
+R2
+R31
+!i122 106
+l17
+L15 16
+V9d_`V<2mc7ZH1QVTdXF471
+!s100 ajI<oE?c;W5fC0`Y[mP]82
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Eimm
+R15
+R13
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L170 1
+VZg=>Loj1gOBQiAzQb;[Qc0
+!s100 OPRg^o:Ee0?Z_EVWeX3F[2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R1
+R2
+R61
+!i122 108
+l184
+L182 9
+VI=naUZ;jFAn8o5a3SY1zi1
+!s100 G`Vz4TjNEBHhM>:UbmZcm1
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Einc
+R15
+R13
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L130 1
+V?eAPoefXz738SbCJ:mPh70
+!s100 ;NKKXO2l3W7`805G_d4YW0
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R1
+R2
+R60
+!i122 108
+l140
+L138 7
+V4IYg=3Wd5z@8kOfkbg8eT0
+!s100 8^mID@?^@UGek0;j:9A3R2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Einc1
+R15
+R13
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L150 1
+VYcK6fTYh?C0_FiMfiS2`h3
+!s100 ?TJHCT0lX<C9P1_Ac]oZJ2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R1
+R2
+DEx4 work 4 inc1 0 22 YcK6fTYh?C0_FiMfiS2`h3
+!i122 108
+l160
+L158 7
+Vn]NGVJcVX]b>=3UMcaZQz3
+!s100 ^5`A6e=lJ<LST`XYAd2;z1
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Elgu
+R15
+R13
+R20
+R21
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L59 1
+VQQ6A`_9W22LMTVFXHPhKP0
+!s100 jD4md6[hfkJd42N6;iSZb0
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R20
+R21
+R1
+R2
+R65
+!i122 108
+l72
+L70 26
+VZFN3>LYI?GEn`e8lEKM]M2
+!s100 h43XW@BlQ?Tff^I?A[3hA1
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Ememory
+Z107 w1655235863
+Z108 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R13
+R1
+R2
+!i122 112
+R3
+Z109 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/MEMORY.vhd
+Z110 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/MEMORY.vhd
+l0
+L7 1
+V2ej<=495^BSlD2bJhN]>E3
+!s100 h@aPkM?ndO4VeFG;2aQ7=0
+R6
+32
+R37
+!i10b 1
+R38
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/MEMORY.vhd|
+Z112 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/MEMORY.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R108
+R13
+R1
+R2
+DEx4 work 6 memory 0 22 2ej<=495^BSlD2bJhN]>E3
+!i122 112
+l44
+L19 40
+VbY7RLT^^Vo==DXe1T41W;3
+!s100 QARg9kJPIVn]hgCa]zNa00
+R6
+32
+R37
+!i10b 1
+R38
+R111
+R112
+!i113 1
+R11
+R12
+Emux2to1
+R15
+R13
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L197 1
+VU@8d4RDKzB?lIaWKimje:2
+!s100 _AoVGTo5_kkbi^AUd_=MX2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R1
+R2
+R64
+!i122 108
+l206
+L205 6
+VLZzRAfkmmQaF4iX_4`eIj0
+!s100 d_=Tc1N6J_Sia;ZiHOG_Y0
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Emux3to1
+R15
+R13
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L271 1
+VDCC]B7b[9K799c]dTFB^80
+!s100 zZ^>41>bMZ[MNN=`_zVn32
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R1
+R2
+R62
+!i122 108
+l280
+L279 7
+V08HfM==c:^XPzMGN0eQGF0
+!s100 jj^W_4oN68PniI9B0`;bg0
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Emux4to1
+R15
+R13
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L216 1
+V]NYSnWAJS?<>>UkZKAkof1
+!s100 c1jZ8ikjVi@9PfhTEj>a82
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R1
+R2
+R63
+!i122 108
+l225
+L224 8
+VkRZCeG>d9O:1Ye?OIPT>H1
+!s100 nbgQjJ^4BUF<0M8=m4XmZ3
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Epic
+Z113 w1655374467
+R13
+R1
+R2
+!i122 113
+R3
+Z114 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PIC.VHD
+Z115 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PIC.VHD
+l0
+L5 1
+V``0H9W@hcLNFYCJ_zmBkh3
+!s100 OX@dmIL322I_@ClN2Vec63
+R6
+32
+R37
+!i10b 1
+R38
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PIC.VHD|
+Z117 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PIC.VHD|
+!i113 1
+R11
+R12
+Aarch
+R13
+R1
+R2
+DEx4 work 3 pic 0 22 ``0H9W@hcLNFYCJ_zmBkh3
+!i122 113
+l21
+L18 7
+VkfnDYb5U8l4IfkDK0QO?T2
+!s100 n?zEAK4?78d@D]BTeSV=82
+R6
+32
+R37
+!i10b 1
+R38
+R116
+R117
+!i113 1
+R11
+R12
+Epuneh
+Z118 w1655356953
+R13
+R1
+R2
+!i122 116
+R3
+Z119 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_TopLevel.vhd
+Z120 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_TopLevel.vhd
+l0
+L5 1
+Vh0D^oLU09K;E3iMNR5kW[0
+!s100 R_=``CDZ`YcMj7UghScDU0
+R6
+32
+R37
+!i10b 1
+R38
+Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_TopLevel.vhd|
+Z122 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/PUNEH_TopLevel.vhd|
+!i113 1
+R11
+R12
+Atoplevel
+R34
+R21
+R20
+R41
+R66
+R13
+R1
+R2
+DEx4 work 5 puneh 0 22 h0D^oLU09K;E3iMNR5kW[0
+!i122 116
+l36
+L18 170
+VM8?W3CH>bSamWIOKaH[l@1
+!s100 fjTTb5]L6:?i>^no>KKHk3
+R6
+32
+R37
+!i10b 1
+R38
+R121
+R122
+!i113 1
+R11
+R12
+Eram
+R49
+R20
+R21
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L90 1
+VeYMT[UJ0f<3`4[0Eg^zB`1
+!s100 1T22]=3XoJh5g7dh4zF702
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Aarc
+R20
+R21
+R13
+R1
+R2
+DEx4 work 3 ram 0 22 eYMT[UJ0f<3`4[0Eg^zB`1
+!i122 107
+l104
+L101 16
+VdEbAoODC:An@[2aHk7A042
+!s100 he7EEUZM:4lKOQjen`6zZ1
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Eram_cof
+R49
+R20
+R21
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L123 1
+VFSdm922LLC3=E2J8zK2140
+!s100 SN[kHbgTZKWl@YRTM>WWL0
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Artl
+R20
+R21
+R13
+R1
+R2
+R99
+!i122 107
+l137
+L134 16
+V]_;2=ScDb8fAcT9bMD2cU3
+!s100 _@i7V<gmm0GTe5m0>Zl<42
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Eram_in
+R49
+R20
+R21
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L157 1
+VH3]N=?NPN^QWYFF3EMMde1
+!s100 ;B;R@VCf@3RQOfcW9Y3`T2
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Artl
+R20
+R21
+R13
+R1
+R2
+R81
+!i122 107
+l171
+L168 16
+VRZO[E^VT:W=D1BYHaPL<S0
+!s100 gnSdB_Ba<=_DVhWGm7Qjl2
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Eram_out
+R49
+R20
+R21
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L191 1
+VTR5MXEKkJa6oCR>9IeJ2C1
+!s100 ^@0K=GT>O8K340]Nc@9=^1
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Artl
+R20
+R21
+R13
+R1
+R2
+R80
+!i122 107
+l205
+L202 16
+Vg`DkkeKIab_feJzl[R`8<1
+!s100 S:QGGTjznjH@[7C7@hd4W3
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Ereg16
+R49
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L33 1
+VZ_Xmd4bTB2ZiPAYbk2]D30
+!s100 ]KGmETf7e7<JY58:i=fVg1
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Artl
+R13
+R1
+R2
+R82
+!i122 107
+l42
+L41 15
+Vf<OhQdLb@L:WJ^`Yz7?Tm2
+!s100 GYiHI`YC>Hn@hA4DGU7773
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Ereg3
+R49
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L61 1
+VKb=99Ma>?Ci0bDbiQ2LHK0
+!s100 J4j7Y5XCg]hK_TA^EYTPQ1
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Aarc
+R13
+R1
+R2
+DEx4 work 4 reg3 0 22 Kb=99Ma>?Ci0bDbiQ2LHK0
+!i122 107
+l70
+L69 15
+V7zF9Jc4LgWR1LE>ZgbMF`3
+!s100 CYKH`FVfC>[41[cHAFDDj0
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Ereg32
+R49
+R13
+R1
+R2
+!i122 107
+R3
+R50
+R51
+l0
+L5 1
+VMg?Ae8=kPNhIbgDmHIdEL3
+!s100 SY_KTU=4QNCRJT1>D`DlB0
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Artl
+R13
+R1
+R2
+R101
+!i122 107
+l14
+L13 15
+V28Ed6kQZMYXZNS_N<zg<h1
+!s100 EWLMe^V?E`clPYCIX=^Gb0
+R6
+32
+R7
+!i10b 1
+R8
+R52
+R53
+!i113 1
+R11
+R12
+Ereg_p
+R15
+R13
+R1
+R2
+!i122 108
+R3
+R16
+R17
+l0
+L101 1
+V2G0;`I:Q[I[W4njcPDULX2
+!s100 2PTzzgOY<9AF:of];K_nK2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Abehaviour
+R13
+R1
+R2
+R14
+!i122 108
+l111
+L110 15
+V`zRjF;VXZH5X]D6Y8IeY60
+!s100 nkTHMi[m^BZ8>3N^BzVMY1
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Esystem
+Z123 w1655278076
+R13
+R1
+R2
+!i122 117
+R3
+Z124 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/system.vhd
+Z125 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/system.vhd
+l0
+L5 1
+VWRCNQG_@>ES>]5OCZ@DX_2
+!s100 zFn5<EUG`AVTo<V=dHzPY1
+R6
+32
+R37
+!i10b 1
+R38
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/system.vhd|
+Z127 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/system.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R13
+R1
+R2
+Z128 DEx4 work 6 system 0 22 WRCNQG_@>ES>]5OCZ@DX_2
+!i122 117
+l114
+L10 185
+VSbi]U[YB?Maj1[CRfK7I]1
+!s100 AF61nMgI;D<bGa_C>3[8J2
+R6
+32
+R37
+!i10b 1
+R38
+R126
+R127
+!i113 1
+R11
+R12
+Etest_fir
+Z129 w1655236374
+R108
+R1
+R2
+!i122 118
+R3
+Z130 8C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/TB.vhd
+Z131 FC:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/TB.vhd
+l0
+L6 1
+VR2kO^RRN4@jC:FCmGmj?j2
+!s100 U`Wgn_[R`KdKZlzL_m[1:1
+R6
+32
+R70
+!i10b 1
+R38
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/TB.vhd|
+Z133 !s107 C:/Users/Amir/Desktop/CA3_AMIRHOSSEIN_ILKHANI/TB.vhd|
+!i113 1
+R11
+R12
+Aarc_test
+R13
+R128
+R108
+R1
+R2
+DEx4 work 8 test_fir 0 22 R2kO^RRN4@jC:FCmGmj?j2
+!i122 118
+l16
+L10 48
+VH8HgZVU_Q<19?@zgF;[em1
+!s100 4hLKK0mRFJ6KhVLZYFa<o0
+R6
+32
+R70
+!i10b 1
+R38
+R132
+R133
+!i113 1
+R11
+R12
